@@ -1,0 +1,25 @@
+{
+  "name": "go-enterprise",
+  "version": "0.1.0",
+  "description": "Generates a fully enterprise go microservice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlckStar/generator-enterprise-go.git"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "Alexis Peters (BlckStar)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlckStar/generator-enterprise-go/issues"
+  },
+  "homepage": "https://github.com/BlckStar/generator-enterprise-go#readme",
+  "dependencies": {
+    "yeoman-generator": "^1.1.1"
+  }
+}
