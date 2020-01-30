@@ -11,7 +11,7 @@
     "url": "git+https://github.com/BlckStar/generator-enterprise-go.git"
   },
   "files": [
-    "dist"
+    "generators"
   ],
   "keywords": [
     "yeoman-generator"
